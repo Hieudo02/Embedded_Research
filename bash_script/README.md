@@ -13,6 +13,18 @@
 - [5. Output/Input Redirection](#5-outputinput-redirection)
     - [5.1. Piping](#51-piping)
     - [5.2. Output Redirection](#52-output-redirection)
+- [6. Test Operators](#6-test-operators)
+- [7. If/Elif/Else](#7-ifelifelse)
+- [8. Case statements](#8-case-statements)
+- [9. Arrays](#9-arrays)
+- [10. For loop](#10-for-loop)
+- [11. Functions](#11-functions)
+    - [11.1. Definition](#111-definition)
+    - [11.2. Local variable](#112-local-variable)
+    - [11.3. Arguments](#113-arguments)
+- [12. Exit codes](#12-exit-codes)
+- [13. AWK](#13-awk)
+- [14. SED](#14-sed)
 
 ## 1. Basic commands
 ### 1.1. echo
@@ -481,7 +493,7 @@
             # Output: Hello
         ```
 
-## 13. SED
+## 14. SED
 - There will come a times where you want to change certain values in text files, and that's where `SED` or `set` comes in.
 - `SED` is a command line tool that will allow to modify values in a text files using `regular expressions`.
 - For example:
